@@ -1,6 +1,7 @@
-# Your Project Name
+# Table-Vista
 
-Brief project description and its purpose.
+The Table Banking System is a feature-rich Django web application created to oversee and simplify financial transactions in a neighborhood-based table banking program. This project addresses the financial needs of community members by offering a centralized platform to handle savings accounts, loan accounts, meeting minutes, and educational blogs.
+The primary purpose of the Table Banking System is to empower community members with financial tools and knowledge, fostering economic growth and financial well-being.
 
 ## Table of Contents
 
