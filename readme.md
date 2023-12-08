@@ -89,7 +89,7 @@ Before you begin with the installation and usage of the Table Banking System, ma
 
 ## License:
 
-- This project is licenced under the <a href="LICENSE.md">MIT LICENSE</a>
+- This project is licenced under the <a href="LICENSE">MIT LICENSE</a>
 
 ### **Running the Development Server:**
     ```bash
